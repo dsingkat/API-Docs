@@ -1,0 +1,19 @@
+{
+    "price": "1",
+    "guaranteedPrice": "1",
+    "to": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "data": "0xd0e30db0869584cd0000000000000000000000001000000000000000000000000000000000000011000000000000000000000000000000000000000000000000000000005ecd4245",
+    "value": "10000000",
+    "gas": "40000",
+    "estimatedGas": "40000",
+    "gasPrice": "36000000000",
+    "protocolFee": "0",
+    "minimumProtocolFee": "0",
+    "estimatedGasTokenRefund": "0",
+    "buyTokenAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "sellTokenAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "buyAmount": "10000000",
+    "sellAmount": "10000000",
+    "sources": [],
+    "allowanceTarget": "0x0000000000000000000000000000000000000000"
+}
